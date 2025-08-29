@@ -1,0 +1,3512 @@
+[CustomCards]
+	[
+		{
+			"name": "Temple District Guard",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Halfling Cleric",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/35_Temple District Guard.jpg"
+			}
+		},
+		{
+			"name": "Pale Guard Archers",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Skeleton Archer",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/22_Pale Guard Archers.jpg"
+			}
+		},
+		{
+			"name": "Syngorn Emissary",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/34_Syngorn Emissary.jpg"
+			}
+		},
+		{
+			"name": "Friendly Face",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/12_Friendly Face.jpg"
+			}
+		},
+		{
+			"name": "Whitestone Pale Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/37_Whitestone Pale Guard.jpg"
+			}
+		},
+		{
+			"name": "Whitestone Usurper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/38_Whitestone Usurper.jpg"
+			}
+		},
+		{
+			"name": "Fey Serpent Pup",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Faerie Dog Serpent",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/11_Fey Serpent Pup.jpg"
+			}
+		},
+		{
+			"name": "Arms of Emon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/3_Arms of Emon.jpg"
+			}
+		},
+		{
+			"name": "Disturbed Spirits",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/8_Disturbed Spirits.jpg"
+			}
+		},
+		{
+			"name": "Call the Cavalcade",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/5_Call the Cavalcade.jpg"
+			}
+		},
+		{
+			"name": "Arcane Hoarding",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/2_Arcane Hoarding.jpg"
+			}
+		},
+		{
+			"name": "Smiting Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/29_Smiting Strike.jpg"
+			}
+		},
+		{
+			"name": "Slay the Titan",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/28_Slay the Titan.jpg"
+			}
+		},
+		{
+			"name": "Defense of Emon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/7_Defense of Emon.jpg"
+			}
+		},
+		{
+			"name": "Pixie Swarm",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/64_Pixie Swarm.jpg"
+			}
+		},
+		{
+			"name": "Vasselheim Storm Mage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/72_Vasselheim Storm Mage.jpg"
+			}
+		},
+		{
+			"name": "Valiant Crownsoul",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Construct",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/71_Valiant Crownsoul.jpg"
+			}
+		},
+		{
+			"name": "Fey Whirlybug",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Faerie Fish Monstrosity",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/53_Fey Whirlybug.jpg"
+			}
+		},
+		{
+			"name": "Ashari Waterweaver",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/44_Ashari Waterweaver.jpg"
+			}
+		},
+		{
+			"name": "Goldfish Elemental",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/55_Goldfish Elemental.jpg"
+			}
+		},
+		{
+			"name": "Elusive Boneworm",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Skeleton Worm",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/52_Elusive Boneworm.jpg"
+			}
+		},
+		{
+			"name": "Wyvern Skyraiders",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Drake",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/76_Wyvern Skyraiders.jpg"
+			}
+		},
+		{
+			"name": "Behir",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Monstrosity",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/45_Behir.jpg"
+			}
+		},
+		{
+			"name": "Sleight of Hand",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/67_Sleight of Hand.jpg"
+			}
+		},
+		{
+			"name": "Scanlan's Interposing Hand",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/65_Scanlan's Interposing Hand.jpg"
+			}
+		},
+		{
+			"name": "Vecna's Dispersal",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/73_Vecna's Dispersal.jpg"
+			}
+		},
+		{
+			"name": "Ioun's Watchful Eye",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/57_Ioun's Watchful Eye.jpg"
+			}
+		},
+		{
+			"name": "Allura's Binding Sphere",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/41_Allura's Binding Sphere.jpg"
+			}
+		},
+		{
+			"name": "Whispering Omen",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/74_Whispering Omen.jpg"
+			}
+		},
+		{
+			"name": "Divine Affluence",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/49_Divine Affluence.jpg"
+			}
+		},
+		{
+			"name": "Cinderslag Egg",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{B/G}",
+			"type": "Creature — Dragon Egg",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/244_Cinderslag Egg.jpg"
+			}
+		},
+		{
+			"name": "Pyrah Spiritualists",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{R/W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/249_Pyrah Spiritualists.jpg"
+			}
+		},
+		{
+			"name": "Risen Resident",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/104_Risen Resident.jpg"
+			}
+		},
+		{
+			"name": "Ravenite Defender",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Dragon Rebel",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/100_Ravenite Defender.jpg"
+			}
+		},
+		{
+			"name": "Spawn of Vecna",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/105_Spawn of Vecna.jpg"
+			}
+		},
+		{
+			"name": "Ignoble Count",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/91_Ignoble Count.jpg"
+			}
+		},
+		{
+			"name": "Fey Realm Rootsnake",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Faerie Snake",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/88_Fey Realm Rootsnake.jpg"
+			}
+		},
+		{
+			"name": "Black Pudding",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Ooze",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/82_Black Pudding.jpg"
+			}
+		},
+		{
+			"name": "Ravenous Warg",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Wolf",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/101_Ravenous Warg.jpg"
+			}
+		},
+		{
+			"name": "Clasp Underagent",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Halfling Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/83_Clasp Underagent.jpg"
+			}
+		},
+		{
+			"name": "Zombie Stone Giant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/114_Zombie Stone Giant.jpg"
+			}
+		},
+		{
+			"name": "Aberrant Horror",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/77_Aberrant Horror.jpg"
+			}
+		},
+		{
+			"name": "Whispered One's Touch",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/112_Whispered One's Touch.jpg"
+			}
+		},
+		{
+			"name": "Rebuke the Divine",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/102_Rebuke the Divine.jpg"
+			}
+		},
+		{
+			"name": "Thunderous Crack",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/107_Thunderous Crack.jpg"
+			}
+		},
+		{
+			"name": "Watch of the Matron",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/111_Watch of the Matron.jpg"
+			}
+		},
+		{
+			"name": "Disease of the Deceiver",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/86_Disease of the Deceiver.jpg"
+			}
+		},
+		{
+			"name": "Rise Again",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/103_Rise Again.jpg"
+			}
+		},
+		{
+			"name": "Council Ambassador",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{G/U}",
+			"type": "Creature — Tiefling Advisor",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/245_Council Ambassador.jpg"
+			}
+		},
+		{
+			"name": "Gloomstalker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{W/B}",
+			"type": "Creature — Monstrosity",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/246_Gloomstalker.jpg"
+			}
+		},
+		{
+			"name": "Nameless Cultists",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{U/R}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/248_Nameless Cultists.jpg"
+			}
+		},
+		{
+			"name": "Eccentric Refiner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dragon Artificer",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/136_Eccentric Refiner.jpg"
+			}
+		},
+		{
+			"name": "Cinderslag Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Monstrosity",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/128_Cinderslag Elemental.jpg"
+			}
+		},
+		{
+			"name": "Emon Pikemasters",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/137_Emon Pikemasters.jpg"
+			}
+		},
+		{
+			"name": "Scanlan's Clenched Fist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/143_Scanlan's Clenched Fist.jpg"
+			}
+		},
+		{
+			"name": "Stilben Weapons Dealer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Orc Artificer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/146_Stilben Weapons Dealer.jpg"
+			}
+		},
+		{
+			"name": "Draconian Tyrant",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/134_Draconian Tyrant.jpg"
+			}
+		},
+		{
+			"name": "Crucible Brawler",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Orc Barbarian",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/131_Crucible Brawler.jpg"
+			}
+		},
+		{
+			"name": "Herd Brawler",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Barbarian",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/140_Herd Brawler.jpg"
+			}
+		},
+		{
+			"name": "Dragonbrawler Goristro",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/135_Dragonbrawler Goristro.jpg"
+			}
+		},
+		{
+			"name": "Strategic Adjustment",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/148_Strategic Adjustment.jpg"
+			}
+		},
+		{
+			"name": "Divine Rage",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/133_Divine Rage.jpg"
+			}
+		},
+		{
+			"name": "Arrow of Dragon Slaying",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/119_Arrow of Dragon Slaying.jpg"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/141_Lightning Strike.jpg"
+			}
+		},
+		{
+			"name": "Action Surge",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/115_Action Surge.jpg"
+			}
+		},
+		{
+			"name": "Flametongue Dagger",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/138_Flametongue Dagger.jpg"
+			}
+		},
+		{
+			"name": "Silver Tongue",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/145_Silver Tongue.jpg"
+			}
+		},
+		{
+			"name": "Whispering Tome",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/270_Whispering Tome.jpg"
+			}
+		},
+		{
+			"name": "Residuum Glass Barricade",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Residuum Wall",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/263_Residuum Glass Barricade.jpg"
+			}
+		},
+		{
+			"name": "Inconspicuous Door",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/257_Inconspicuous Door.jpg"
+			}
+		},
+		{
+			"name": "Ashari Companion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Weasel Druid",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/156_Ashari Companion.jpg"
+			}
+		},
+		{
+			"name": "Scanlan's Forceful Hand",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/180_Scanlan's Forceful Hand.jpg"
+			}
+		},
+		{
+			"name": "Druidic Tiger-form",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Druid",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/161_Druidic Tiger-form.jpg"
+			}
+		},
+		{
+			"name": "Syngorn Dreamer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Noble",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/185_Syngorn Dreamer.jpg"
+			}
+		},
+		{
+			"name": "Accursed Naga",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Naga Monstrosity",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/154_Accursed Naga.jpg"
+			}
+		},
+		{
+			"name": "Grasping Vine",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/173_Grasping Vine.jpg"
+			}
+		},
+		{
+			"name": "Ice-Scaled Basilisk",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Basilisk",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/176_Ice-Scaled Basilisk.jpg"
+			}
+		},
+		{
+			"name": "Fey Realm Wanderer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/170_Fey Realm Wanderer.jpg"
+			}
+		},
+		{
+			"name": "Feymire Crocodile",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Crocodile Monstrosity",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/171_Feymire Crocodile.jpg"
+			}
+		},
+		{
+			"name": "Umber Hulk",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Insect Monstrosity",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/191_Umber Hulk.jpg"
+			}
+		},
+		{
+			"name": "Psychadelic Fey Shroom",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Faerie Plant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/179_Psychadelic Fey Shroom.jpg"
+			}
+		},
+		{
+			"name": "Enlargement",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/166_Enlargement.jpg"
+			}
+		},
+		{
+			"name": "Explore the Fey Realm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/167_Explore the Fey Realm.jpg"
+			}
+		},
+		{
+			"name": "Disavow the Creators",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/158_Disavow the Creators.jpg"
+			}
+		},
+		{
+			"name": "True Power",
+			"rarity": "common",
+			"mana_cost": "{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/189_True Power.jpg"
+			}
+		},
+		{
+			"name": "Activate the Threshold Crests",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/155_Activate the Threshold Crests.jpg"
+			}
+		},
+		{
+			"name": "Holy Relic",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/256_Holy Relic.jpg"
+			}
+		},
+		{
+			"name": "Cowpen of Consequence",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Cow",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/252_Cowpen of Consequence.jpg"
+			}
+		},
+		{
+			"name": "Pepperbox",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Firearm",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/259_Pepperbox.jpg"
+			}
+		},
+		{
+			"name": "Pike Trickfoot, Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Gnome Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/23_Pike Trickfoot, Acolyte.jpg"
+			}
+		},
+		{
+			"name": "Skyship Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Pilot",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/27_Skyship Captain.jpg"
+			}
+		},
+		{
+			"name": "Yennen, Keeper of the Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/40_Yennen, Keeper of the Sun.jpg"
+			}
+		},
+		{
+			"name": "Jarret, Vigilant Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/18_Jarret, Vigilant Guard.jpg"
+			}
+		},
+		{
+			"name": "Kerrek, Retired Smith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/19_Kerrek, Retired Smith.jpg"
+			}
+		},
+		{
+			"name": "Wilhand Trickfoot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Gnome Citizen",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/39_Wilhand Trickfoot.jpg"
+			}
+		},
+		{
+			"name": "Meeting at Whitestone",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/21_Meeting at Whitestone.jpg"
+			}
+		},
+		{
+			"name": "Sundown Spawning",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/33_Sundown Spawning.jpg"
+			}
+		},
+		{
+			"name": "Indomitable Focus",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/17_Indomitable Focus.jpg"
+			}
+		},
+		{
+			"name": "Plate of the Dawnmartyr",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/24_Plate of the Dawnmartyr.jpg"
+			}
+		},
+		{
+			"name": "Godly Bestowal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/13_Godly Bestowal.jpg"
+			}
+		},
+		{
+			"name": "Sprigg, Trickster Gnome",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Gnome Wizard Rogue",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/68_Sprigg, Trickster Gnome.jpg"
+			}
+		},
+		{
+			"name": "Gern Blanston, Necrosage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Dragon Wizard",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/54_Gern Blanston, Necrosage.jpg"
+			}
+		},
+		{
+			"name": "Lyra of the Slayer's Take",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/60_Lyra of the Slayer's Take.jpg"
+			}
+		},
+		{
+			"name": "Nahla, Healing Naiad",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/62_Nahla, Healing Naiad.jpg"
+			}
+		},
+		{
+			"name": "Clarota, Troubled Alhoon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/47_Clarota, Troubled Alhoon.jpg"
+			}
+		},
+		{
+			"name": "Ashari Transport Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/43_Ashari Transport Ritual.jpg"
+			}
+		},
+		{
+			"name": "Scrying Ritual",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/66_Scrying Ritual.jpg"
+			}
+		},
+		{
+			"name": "Chateau Accompaniment",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/46_Chateau Accompaniment.jpg"
+			}
+		},
+		{
+			"name": "Wristpocket",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/75_Wristpocket.jpg"
+			}
+		},
+		{
+			"name": "Mythcarver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/61_Mythcarver.jpg"
+			}
+		},
+		{
+			"name": "Countercharm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Intant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/48_Countercharm.jpg"
+			}
+		},
+		{
+			"name": "Victor, Explosive Powderman",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/110_Victor, Explosive Powderman.jpg"
+			}
+		},
+		{
+			"name": "Percival de Rolo, Inventor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Gunslinger",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/99_Percival de Rolo, Inventor.jpg"
+			}
+		},
+		{
+			"name": "Garthok of the Clasp",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Orc Human Rogue",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/90_Garthok of the Clasp.jpg"
+			}
+		},
+		{
+			"name": "Lillith, Moontouched",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Creature — Tiefling Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/95_Lillith, Moontouched.jpg"
+			}
+		},
+		{
+			"name": "Archibald, Freedom Fighter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Rebel",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/78_Archibald, Freedom Fighter.jpg"
+			}
+		},
+		{
+			"name": "Assassin's Ink",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/79_Assassin's Ink.jpg"
+			}
+		},
+		{
+			"name": "Become Revenant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/81_Become Revenant.jpg"
+			}
+		},
+		{
+			"name": "Disturbed Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/87_Disturbed Tomb.jpg"
+			}
+		},
+		{
+			"name": "Bad News",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Equipment Firearm",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/80_Bad News.jpg"
+			}
+		},
+		{
+			"name": "Deathwalker's Ward",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/85_Deathwalker's Ward.jpg"
+			}
+		},
+		{
+			"name": "Necrotic Surge",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/98_Necrotic Surge.jpg"
+			}
+		},
+		{
+			"name": "Thorbir Falbek, Unlucky",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dwarf Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/150_Thorbir Falbek, Unlucky.jpg"
+			}
+		},
+		{
+			"name": "Zanror, Hope of Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Giant Barbarian",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/153_Zanror, Hope of Storm.jpg"
+			}
+		},
+		{
+			"name": "Grog Strongjaw",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Giant Barbarian",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/139_Grog Strongjaw.jpg"
+			}
+		},
+		{
+			"name": "Tova, Imprisoned",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Dwarf Inquisitor",
+			"collector_number": "152",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/152_Tova, Imprisoned_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/152_Tova, Imprisoned_front.jpg"
+			}
+		},
+		{
+			"name": "Arcane Cache",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/117_Arcane Cache.jpg"
+			}
+		},
+		{
+			"name": "Barbaric Outburst",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/121_Barbaric Outburst.jpg"
+			}
+		},
+		{
+			"name": "Airborne Assault",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/116_Airborne Assault.jpg"
+			}
+		},
+		{
+			"name": "Carefully-Laid Trap",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/124_Carefully-Laid Trap.jpg"
+			}
+		},
+		{
+			"name": "Crater of the Cinder King",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/130_Crater of the Cinder King.jpg"
+			}
+		},
+		{
+			"name": "Storm-Herd Maul",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/147_Storm-Herd Maul.jpg"
+			}
+		},
+		{
+			"name": "Titanstone Knuckles",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/234_Titanstone Knuckles.jpg"
+			}
+		},
+		{
+			"name": "Shale, Goliath Elder",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/182_Shale, Goliath Elder.jpg"
+			}
+		},
+		{
+			"name": "Trinket, Voracious Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Bear",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/188_Trinket, Voracious Companion.jpg"
+			}
+		},
+		{
+			"name": "Greenbeard, Herd Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Giant Druid",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/174_Greenbeard, Herd Druid.jpg"
+			}
+		},
+		{
+			"name": "Dr. Dranzel the Spectacular",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Orc Human Bard",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/160_Dr. Dranzel the Spectacular.jpg"
+			}
+		},
+		{
+			"name": "Ukurat of the Fendir",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Werewolf Warrior",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/190_Ukurat of the Fendir.jpg"
+			}
+		},
+		{
+			"name": "Ashari Summit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/157_Ashari Summit.jpg"
+			}
+		},
+		{
+			"name": "Syngorn Rally",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/186_Syngorn Rally.jpg"
+			}
+		},
+		{
+			"name": "Herd Brawling",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/175_Herd Brawling.jpg"
+			}
+		},
+		{
+			"name": "Echoes of the Feywild",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/164_Echoes of the Feywild.jpg"
+			}
+		},
+		{
+			"name": "Spire of Conflux",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/183_Spire of Conflux.jpg"
+			}
+		},
+		{
+			"name": "Journey of Aramenté",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/177_Journey of Aramenté.jpg"
+			}
+		},
+		{
+			"name": "Soverign Uriel Tal'Dorei II",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/30_Soverign Uriel Tal'Dorei II.jpg"
+			}
+		},
+		{
+			"name": "Cassandra de Rolo",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/6_Cassandra de Rolo.jpg"
+			}
+		},
+		{
+			"name": "Guardian Tofor Brotoras",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dragon Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/14_Guardian Tofor Brotoras.jpg"
+			}
+		},
+		{
+			"name": "Professor Byron Anders",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/25_Professor Byron Anders.jpg"
+			}
+		},
+		{
+			"name": "Divine Word",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/10_Divine Word.jpg"
+			}
+		},
+		{
+			"name": "Magnificent Flying Carpet",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Artifact — Equipment Vehicle",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/20_Magnificent Flying Carpet.jpg"
+			}
+		},
+		{
+			"name": "Taryon Darrington",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/69_Taryon Darrington.jpg"
+			}
+		},
+		{
+			"name": "Uvenda, Heart of the Tides",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Gnome Druid",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/70_Uvenda, Heart of the Tides.jpg"
+			}
+		},
+		{
+			"name": "Lady Allura Vysoren",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/58_Lady Allura Vysoren.jpg"
+			}
+		},
+		{
+			"name": "Locked and Loaded",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/59_Locked and Loaded.jpg"
+			}
+		},
+		{
+			"name": "Animus",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment Firearm",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/42_Animus.jpg"
+			}
+		},
+		{
+			"name": "Ioun Stone of Reserve",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/56_Ioun Stone of Reserve.jpg"
+			}
+		},
+		{
+			"name": "Umbrasyl, the Hope Devourer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/108_Umbrasyl, the Hope Devourer.jpg"
+			}
+		},
+		{
+			"name": "Galdric, Moonlit Wolf",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Elder Wolf",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/89_Galdric, Moonlit Wolf.jpg"
+			}
+		},
+		{
+			"name": "Lieve'Tel of the Veiled Coven",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/94_Lieve'Tel of the Veiled Coven.jpg"
+			}
+		},
+		{
+			"name": "Kashaw, Tortured by Love",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/93_Kashaw, Tortured by Love.jpg"
+			}
+		},
+		{
+			"name": "The List",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}{B}",
+			"type": "Legendary Artifact — Equipment Firearm",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/96_The List.jpg"
+			}
+		},
+		{
+			"name": "Craven Edge",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/84_Craven Edge.jpg"
+			}
+		},
+		{
+			"name": "Bertrand Bell, Charlatan",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/122_Bertrand Bell, Charlatan.jpg"
+			}
+		},
+		{
+			"name": "Pa'tice, Heart of the Mountain",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/142_Pa'tice, Heart of the Mountain.jpg"
+			}
+		},
+		{
+			"name": "Cerkonos, Flamespeaker",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Human Druid",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/125_Cerkonos, Flamespeaker.jpg"
+			}
+		},
+		{
+			"name": "Count on Luck",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/129_Count on Luck.jpg"
+			}
+		},
+		{
+			"name": "Thunderlord's Warbanner",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/151_Thunderlord's Warbanner.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Queen's Summons",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/127_Chromatic Queen's Summons.jpg"
+			}
+		},
+		{
+			"name": "Kaylie, Lost Daughter",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Legendary Creature — Gnome Bard",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/178_Kaylie, Lost Daughter.jpg"
+			}
+		},
+		{
+			"name": "Earth Titan, Primordial",
+			"rarity": "rare",
+			"mana_cost": "{12}{G}{G}{G}",
+			"type": "Creature — Elder Elemental",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/162_Earth Titan, Primordial.jpg"
+			}
+		},
+		{
+			"name": "Seeker Assum Emring",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Halfling Rogue",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/181_Seeker Assum Emring.jpg"
+			}
+		},
+		{
+			"name": "Syldor, Ambassador of Syngorn",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Elf Noble",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/184_Syldor, Ambassador of Syngorn.jpg"
+			}
+		},
+		{
+			"name": "Diseased Rebirth",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/159_Diseased Rebirth.jpg"
+			}
+		},
+		{
+			"name": "Fenthras' Woodbloom",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/169_Fenthras' Woodbloom.jpg"
+			}
+		},
+		{
+			"name": "The Sun Tree",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/32_The Sun Tree.jpg"
+			}
+		},
+		{
+			"name": "The Divine Gate",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/9_The Divine Gate.jpg"
+			}
+		},
+		{
+			"name": "Elementalist Thunderbrand",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Dwarf Wizard",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/51_Elementalist Thunderbrand.jpg"
+			}
+		},
+		{
+			"name": "Osysa & Kamaljiori",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/63_Osysa & Kamaljiori.jpg"
+			}
+		},
+		{
+			"name": "J'mon Sa Ord, Jeweled Soul",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "92",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/92_J'mon Sa Ord, Jeweled Soul_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/92_J'mon Sa Ord, Jeweled Soul_front.jpg"
+			}
+		},
+		{
+			"name": "Lord Sylas Briarwood",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/97_Lord Sylas Briarwood.jpg"
+			}
+		},
+		{
+			"name": "Arkhan the Cruel",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Dragon Knight",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/118_Arkhan the Cruel.jpg"
+			}
+		},
+		{
+			"name": "The Calamity",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/123_The Calamity.jpg"
+			}
+		},
+		{
+			"name": "Garmelie, Crass Cavorter",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Satyr Bard",
+			"collector_number": "172",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/172_Garmelie, Crass Cavorter_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/172_Garmelie, Crass Cavorter_front.jpg"
+			}
+		},
+		{
+			"name": "Earthbreaker Groon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/163_Earthbreaker Groon.jpg"
+			}
+		},
+		{
+			"name": "Ziggurat of Knowledge",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{U}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "243",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/243_Ziggurat of Knowledge_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/243_Ziggurat of Knowledge_front.jpg"
+			}
+		},
+		{
+			"name": "The Birthheart",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}{U}{U}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "192",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/192_The Birthheart_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/192_The Birthheart_front.jpg"
+			}
+		},
+		{
+			"name": "The Trial Forge",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}{G/U}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "250",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/250_The Trial Forge_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/250_The Trial Forge_front.jpg"
+			}
+		},
+		{
+			"name": "Tower of Zenith",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "36",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/36_Tower of Zenith_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/36_Tower of Zenith_front.jpg"
+			}
+		},
+		{
+			"name": "Raven's Crest",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "220",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/220_Raven's Crest_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/220_Raven's Crest_front.jpg"
+			}
+		},
+		{
+			"name": "Temple of Renewal",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}{W}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "231",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/231_Temple of Renewal_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/231_Temple of Renewal_front.jpg"
+			}
+		},
+		{
+			"name": "Thar Amphala",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}{B}{B}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "106",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/106_Thar Amphala_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/106_Thar Amphala_front.jpg"
+			}
+		},
+		{
+			"name": "The Meatman",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Shapshifter Bard",
+			"collector_number": "216",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/216_The Meatman_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/216_The Meatman_front.jpg"
+			}
+		},
+		{
+			"name": "Vax'ildan, Matron's Envoy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{B}{G}",
+			"type": "Legendary Creature — Elf Human Rogue",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/235_Vax'ildan, Matron's Envoy.jpg"
+			}
+		},
+		{
+			"name": "Wreath of the Prism",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/240_Wreath of the Prism.jpg"
+			}
+		},
+		{
+			"name": "Castle Whitestone",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/273_Castle Whitestone.jpg"
+			}
+		},
+		{
+			"name": "Gilmore's Glorious Goods",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/277_Gilmore's Glorious Goods.jpg"
+			}
+		},
+		{
+			"name": "The Slayer's Take",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/283_The Slayer's Take.jpg"
+			}
+		},
+		{
+			"name": "Mentiri, Bastion of Flesh",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/279_Mentiri, Bastion of Flesh.jpg"
+			}
+		},
+		{
+			"name": "Peaks of Zephyra",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/281_Peaks of Zephyra.jpg"
+			}
+		},
+		{
+			"name": "Hunted Rime Dragon",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/16_Hunted Rime Dragon.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Renewal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/267_Shrine of Renewal.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Reflection",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/266_Shrine of Reflection.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Shadows",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/268_Shrine of Shadows.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/264_Shrine of Fury.jpg"
+			}
+		},
+		{
+			"name": "Shrine of Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Enchantment — Shrine",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/265_Shrine of Growth.jpg"
+			}
+		},
+		{
+			"name": "Highbearer Vord",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Elf Cleric",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/206_Highbearer Vord.jpg"
+			}
+		},
+		{
+			"name": "The Council of Tal'Dorei",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/196_The Council of Tal'Dorei.jpg"
+			}
+		},
+		{
+			"name": "Dr. Anna Ripley",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Gunslinger",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/199_Dr. Anna Ripley.jpg"
+			}
+		},
+		{
+			"name": "Corrupted Ziggurat",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/195_Corrupted Ziggurat.jpg"
+			}
+		},
+		{
+			"name": "Sir Kerrion Stonefell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/229_Sir Kerrion Stonefell.jpg"
+			}
+		},
+		{
+			"name": "Siege of Emon",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/227_Siege of Emon.jpg"
+			}
+		},
+		{
+			"name": "Kevdak, Stormherd Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Giant Berserker",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/207_Kevdak, Stormherd Leader.jpg"
+			}
+		},
+		{
+			"name": "Scanlan, Valiant Musician",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}{G}",
+			"type": "Legendary Creature — Gnome Bard",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/224_Scanlan, Valiant Musician.jpg"
+			}
+		},
+		{
+			"name": "Vorugal, the Frigid Doom",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/238_Vorugal, the Frigid Doom.jpg"
+			}
+		},
+		{
+			"name": "Wardens of Syngorn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/239_Wardens of Syngorn.jpg"
+			}
+		},
+		{
+			"name": "De Rolo Ancestor",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Zombie Noble",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/197_De Rolo Ancestor.jpg"
+			}
+		},
+		{
+			"name": "Delilah's Haunting",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/198_Delilah's Haunting.jpg"
+			}
+		},
+		{
+			"name": "Shaun Gilmore, Merchant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/226_Shaun Gilmore, Merchant.jpg"
+			}
+		},
+		{
+			"name": "Residuum Refinery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/222_Residuum Refinery.jpg"
+			}
+		},
+		{
+			"name": "Vex'ahlia, Twin Ranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Elf Human Ranger",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/237_Vex'ahlia, Twin Ranger.jpg"
+			}
+		},
+		{
+			"name": "Vax'ildan, Twin Rogue",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Elf Human Rogue",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/236_Vax'ildan, Twin Rogue.jpg"
+			}
+		},
+		{
+			"name": "Duke Goran Vedmire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Giant Noble",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/200_Duke Goran Vedmire.jpg"
+			}
+		},
+		{
+			"name": "Fire Plane Metalcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Giant Soldier",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/203_Fire Plane Metalcrafter.jpg"
+			}
+		},
+		{
+			"name": "Keyleth of the Air Ashari",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Elf Human Druid",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/208_Keyleth of the Air Ashari.jpg"
+			}
+		},
+		{
+			"name": "Zephyra Tornado Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/242_Zephyra Tornado Elemental.jpg"
+			}
+		},
+		{
+			"name": "The Deera",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/253_The Deera.jpg"
+			}
+		},
+		{
+			"name": "Hex Cannon",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Firearm",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/255_Hex Cannon.jpg"
+			}
+		},
+		{
+			"name": "Orb of Scrying",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/258_Orb of Scrying.jpg"
+			}
+		},
+		{
+			"name": "Progenitor's Icon",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/261_Progenitor's Icon.jpg"
+			}
+		},
+		{
+			"name": "General Krieg",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "204",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mbozik2000.github.io/sets/LVM-files/img/204_General Krieg_back.jpg"
+				}
+			},
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/204_General Krieg_front.jpg"
+			}
+		},
+		{
+			"name": "Cabal's Ruin",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/193_Cabal's Ruin.jpg"
+			}
+		},
+		{
+			"name": "Zahra of the Night Moon",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Tiefling Warlock",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/241_Zahra of the Night Moon.jpg"
+			}
+		},
+		{
+			"name": "K'Varn, Warped Beholder",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{B}",
+			"type": "Legendary Creature — Beholder",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/211_K'Varn, Warped Beholder.jpg"
+			}
+		},
+		{
+			"name": "Thordak, the Cinder King",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{R}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/232_Thordak, the Cinder King.jpg"
+			}
+		},
+		{
+			"name": "Thordak's Inferno Beam",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/233_Thordak's Inferno Beam.jpg"
+			}
+		},
+		{
+			"name": "Lionel Gayheart, Duck Prophet",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Orc Human Bard Barbarian",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/215_Lionel Gayheart, Duck Prophet.jpg"
+			}
+		},
+		{
+			"name": "Grog, Pillar of Strength",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Giant Barbarian",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/205_Grog, Pillar of Strength.jpg"
+			}
+		},
+		{
+			"name": "Sir Gregory Fince",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Elf Noble",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/228_Sir Gregory Fince.jpg"
+			}
+		},
+		{
+			"name": "Lady Vex'ahlia de Rolo",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Elf Human Ranger",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/214_Lady Vex'ahlia de Rolo.jpg"
+			}
+		},
+		{
+			"name": "Lady Delilah Briarwood",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}{B}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/212_Lady Delilah Briarwood.jpg"
+			}
+		},
+		{
+			"name": "Percival, Lord of Whitestone",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Human Gunslinger",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/217_Percival, Lord of Whitestone.jpg"
+			}
+		},
+		{
+			"name": "Shaun Gilmore, Councilmember",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{R}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/225_Shaun Gilmore, Councilmember.jpg"
+			}
+		},
+		{
+			"name": "Remnants of the Divergence",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/221_Remnants of the Divergence.jpg"
+			}
+		},
+		{
+			"name": "Raishan, the Diseased Deciever",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{G}{G}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/219_Raishan, the Diseased Deciever.jpg"
+			}
+		},
+		{
+			"name": "Saundor the Betrayed",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Faerie Monstrosity",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/223_Saundor the Betrayed.jpg"
+			}
+		},
+		{
+			"name": "Hotis, Rakshasa Assassin",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G/U}",
+			"type": "Legendary Creature — Demon Assassin",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/247_Hotis, Rakshasa Assassin.jpg"
+			}
+		},
+		{
+			"name": "Lady Kima of Vord",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Halfling Knight",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/213_Lady Kima of Vord.jpg"
+			}
+		},
+		{
+			"name": "Pike, Everlight's Beacon",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{W}",
+			"type": "Legendary Creature — Gnome Cleric",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/218_Pike, Everlight's Beacon.jpg"
+			}
+		},
+		{
+			"name": "Korrin, Watcher of Zephyra",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elf Human Druid",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/210_Korrin, Watcher of Zephyra.jpg"
+			}
+		},
+		{
+			"name": "Keyleth, Voice of the Tempest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elf Human Druid",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/209_Keyleth, Voice of the Tempest.jpg"
+			}
+		},
+		{
+			"name": "Fenthras",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/202_Fenthras.jpg"
+			}
+		},
+		{
+			"name": "Whisper",
+			"rarity": "rare",
+			"mana_cost": "{W/U}{B}",
+			"type": "Legendary Artifact — Vestige Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/251_Whisper.jpg"
+			}
+		},
+		{
+			"name": "Bladeshimmer Shoreline",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/272_Bladeshimmer Shoreline.jpg"
+			}
+		},
+		{
+			"name": "Foramere Basin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/276_Foramere Basin.jpg"
+			}
+		},
+		{
+			"name": "Rifenmist Peninsula",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/282_Rifenmist Peninsula.jpg"
+			}
+		},
+		{
+			"name": "Cliffkeep Mountains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/274_Cliffkeep Mountains.jpg"
+			}
+		},
+		{
+			"name": "Dividing Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/275_Dividing Plains.jpg"
+			}
+		},
+		{
+			"name": "Verdant Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/285_Verdant Expanse.jpg"
+			}
+		},
+		{
+			"name": "Stormcrest Mountains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/284_Stormcrest Mountains.jpg"
+			}
+		},
+		{
+			"name": "Parchwood Timberlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/280_Parchwood Timberlands.jpg"
+			}
+		},
+		{
+			"name": "Alabaster Sierras",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/271_Alabaster Sierras.jpg"
+			}
+		},
+		{
+			"name": "Lucidian Coast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/278_Lucidian Coast.jpg"
+			}
+		},
+		{
+			"name": "Spiritual Projection",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/31_Spiritual Projection.jpg"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Food",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/254_Food.jpg"
+			}
+		},
+		{
+			"name": "Doty",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Construct",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/50_Doty.jpg"
+			}
+		},
+		{
+			"name": "Trinket",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Creature Token — Bear",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/187_Trinket.jpg"
+			}
+		},
+		{
+			"name": "Terrah Rock Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/149_Terrah Rock Elemental.jpg"
+			}
+		},
+		{
+			"name": "Scanlan's Hand",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment — Conjuration",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/144_Scanlan's Hand.jpg"
+			}
+		},
+		{
+			"name": "Demestrik",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Creature Token — Imp",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/132_Demestrik.jpg"
+			}
+		},
+		{
+			"name": "Pistol",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Equipment Firearm",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/260_Pistol.jpg"
+			}
+		},
+		{
+			"name": "Vampire Mist",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Vampire Spirit",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/109_Vampire Mist.jpg"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Treasure",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/269_Treasure.jpg"
+			}
+		},
+		{
+			"name": "Residuum",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Residuum",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/262_Residuum.jpg"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Angel",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/1_Angel.jpg"
+			}
+		},
+		{
+			"name": "Avatar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Avatar",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/4_Avatar.jpg"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment Creature Token — Elemental",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/165_Elemental.jpg"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Faerie",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/168_Faerie.jpg"
+			}
+		},
+		{
+			"name": "Barbarian",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Barbarian",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/120_Barbarian.jpg"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/15_Human Soldier.jpg"
+			}
+		},
+		{
+			"name": "Elf Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Elf Knight",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/201_Elf Knight.jpg"
+			}
+		},
+		{
+			"name": "Zombie Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Zombie Army",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/113_Zombie Army.jpg"
+			}
+		},
+		{
+			"name": "Skeleton Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Skeleton Army",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/26_Skeleton Army.jpg"
+			}
+		},
+		{
+			"name": "Skeleton",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Skeleton",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/230_Skeleton.jpg"
+			}
+		},
+		{
+			"name": "Cinderslag Wyrmling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Dragon Elemental",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/194_Cinderslag Wyrmling.jpg"
+			}
+		},
+		{
+			"name": "Chromatic Greatwyrm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature Token — Dragon",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mbozik2000.github.io/sets/LVM-files/img/126_Chromatic Greatwyrm.jpg"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Soverign Uriel Tal'Dorei II
+	2 Cassandra de Rolo
+	2 Guardian Tofor Brotoras
+	2 Professor Byron Anders
+	2 Divine Word
+	2 Magnificent Flying Carpet
+	2 Taryon Darrington
+	2 Uvenda, Heart of the Tides
+	2 Lady Allura Vysoren
+	2 Locked and Loaded
+	2 Animus
+	2 Ioun Stone of Reserve
+	2 Umbrasyl, the Hope Devourer
+	2 Galdric, Moonlit Wolf
+	2 Lieve'Tel of the Veiled Coven
+	2 Kashaw, Tortured by Love
+	2 The List
+	2 Craven Edge
+	2 Bertrand Bell, Charlatan
+	2 Pa'tice, Heart of the Mountain
+	2 Cerkonos, Flamespeaker
+	2 Count on Luck
+	2 Thunderlord's Warbanner
+	2 Chromatic Queen's Summons
+	2 Kaylie, Lost Daughter
+	2 Earth Titan, Primordial
+	2 Seeker Assum Emring
+	2 Syldor, Ambassador of Syngorn
+	2 Diseased Rebirth
+	2 Fenthras' Woodbloom
+	1 The Sun Tree
+	1 The Divine Gate
+	1 Elementalist Thunderbrand
+	1 Osysa & Kamaljiori
+	1 J'mon Sa Ord, Jeweled Soul
+	1 Lord Sylas Briarwood
+	1 Arkhan the Cruel
+	1 The Calamity
+	1 Garmelie, Crass Cavorter
+	1 Earthbreaker Groon
+	1 Ziggurat of Knowledge
+	1 The Birthheart
+	1 The Trial Forge
+	1 Tower of Zenith
+	1 Raven's Crest
+	1 Temple of Renewal
+	1 Thar Amphala
+	2 Castle Whitestone
+	2 Gilmore's Glorious Goods
+	2 The Slayer's Take
+	2 Mentiri, Bastion of Flesh
+	2 Peaks of Zephyra
+	2 The Deera
+	2 Hex Cannon
+	2 Orb of Scrying
+	2 Progenitor's Icon
+	2 General Krieg
+	2 Cabal's Ruin
+	2 Zahra of the Night Moon
+	2 K'Varn, Warped Beholder
+	2 Thordak, the Cinder King
+	2 Thordak's Inferno Beam
+	2 Lionel Gayheart, Duck Prophet
+	2 Grog, Pillar of Strength
+	2 Sir Gregory Fince
+	2 Lady Vex'ahlia de Rolo
+	2 Lady Delilah Briarwood
+	2 Percival, Lord of Whitestone
+	2 Shaun Gilmore, Councilmember
+	2 Remnants of the Divergence
+	2 Raishan, the Diseased Deciever
+	2 Saundor the Betrayed
+	2 Hotis, Rakshasa Assassin
+	2 Lady Kima of Vord
+	2 Pike, Everlight's Beacon
+	2 Korrin, Watcher of Zephyra
+	2 Keyleth, Voice of the Tempest
+	2 Fenthras
+	2 Whisper
+[uncommon(4)]
+	4 Pike Trickfoot, Acolyte
+	4 Skyship Captain
+	4 Yennen, Keeper of the Sun
+	4 Jarret, Vigilant Guard
+	4 Kerrek, Retired Smith
+	4 Wilhand Trickfoot
+	4 Meeting at Whitestone
+	4 Sundown Spawning
+	4 Indomitable Focus
+	4 Plate of the Dawnmartyr
+	4 Godly Bestowal
+	4 Sprigg, Trickster Gnome
+	4 Gern Blanston, Necrosage
+	4 Lyra of the Slayer's Take
+	4 Nahla, Healing Naiad
+	4 Clarota, Troubled Alhoon
+	4 Ashari Transport Ritual
+	4 Scrying Ritual
+	4 Chateau Accompaniment
+	4 Wristpocket
+	4 Mythcarver
+	4 Countercharm
+	4 Victor, Explosive Powderman
+	4 Percival de Rolo, Inventor
+	4 Garthok of the Clasp
+	4 Lillith, Moontouched
+	4 Archibald, Freedom Fighter
+	4 Assassin's Ink
+	4 Become Revenant
+	4 Disturbed Tomb
+	4 Bad News
+	4 Deathwalker's Ward
+	4 Necrotic Surge
+	4 Thorbir Falbek, Unlucky
+	4 Zanror, Hope of Storm
+	4 Grog Strongjaw
+	4 Tova, Imprisoned
+	4 Arcane Cache
+	4 Barbaric Outburst
+	4 Airborne Assault
+	4 Carefully-Laid Trap
+	4 Crater of the Cinder King
+	4 Storm-Herd Maul
+	4 Titanstone Knuckles
+	4 Shale, Goliath Elder
+	4 Trinket, Voracious Companion
+	4 Greenbeard, Herd Druid
+	4 Dr. Dranzel the Spectacular
+	4 Ukurat of the Fendir
+	4 Ashari Summit
+	4 Syngorn Rally
+	4 Herd Brawling
+	4 Echoes of the Feywild
+	4 Spire of Conflux
+	4 Journey of Aramenté
+	4 The Meatman
+	4 Vax'ildan, Matron's Envoy
+	4 Wreath of the Prism
+	4 Shrine of Renewal
+	4 Shrine of Reflection
+	4 Shrine of Shadows
+	4 Shrine of Fury
+	4 Shrine of Growth
+	4 Highbearer Vord
+	4 The Council of Tal'Dorei
+	4 Dr. Anna Ripley
+	4 Corrupted Ziggurat
+	4 Sir Kerrion Stonefell
+	4 Siege of Emon
+	4 Kevdak, Stormherd Leader
+	4 Scanlan, Valiant Musician
+	4 Vorugal, the Frigid Doom
+	4 Wardens of Syngorn
+	4 De Rolo Ancestor
+	4 Delilah's Haunting
+	4 Shaun Gilmore, Merchant
+	4 Residuum Refinery
+	4 Vex'ahlia, Twin Ranger
+	4 Vax'ildan, Twin Rogue
+	4 Duke Goran Vedmire
+	4 Fire Plane Metalcrafter
+	4 Keyleth of the Air Ashari
+	4 Zephyra Tornado Elemental
+[common(7)]
+	8 Temple District Guard
+	8 Pale Guard Archers
+	8 Syngorn Emissary
+	8 Friendly Face
+	8 Whitestone Pale Guard
+	8 Whitestone Usurper
+	8 Fey Serpent Pup
+	8 Arms of Emon
+	8 Disturbed Spirits
+	8 Call the Cavalcade
+	8 Arcane Hoarding
+	8 Smiting Strike
+	8 Slay the Titan
+	8 Defense of Emon
+	8 Pixie Swarm
+	8 Vasselheim Storm Mage
+	8 Valiant Crownsoul
+	8 Fey Whirlybug
+	8 Ashari Waterweaver
+	8 Goldfish Elemental
+	8 Elusive Boneworm
+	8 Wyvern Skyraiders
+	8 Behir
+	8 Sleight of Hand
+	8 Scanlan's Interposing Hand
+	8 Vecna's Dispersal
+	8 Ioun's Watchful Eye
+	8 Allura's Binding Sphere
+	8 Whispering Omen
+	8 Divine Affluence
+	8 Cinderslag Egg
+	8 Pyrah Spiritualists
+	8 Risen Resident
+	8 Ravenite Defender
+	8 Spawn of Vecna
+	8 Ignoble Count
+	8 Fey Realm Rootsnake
+	8 Black Pudding
+	8 Ravenous Warg
+	8 Clasp Underagent
+	8 Zombie Stone Giant
+	8 Aberrant Horror
+	8 Whispered One's Touch
+	8 Rebuke the Divine
+	8 Thunderous Crack
+	8 Watch of the Matron
+	8 Disease of the Deceiver
+	8 Rise Again
+	8 Council Ambassador
+	8 Gloomstalker
+	8 Nameless Cultists
+	8 Eccentric Refiner
+	8 Cinderslag Elemental
+	8 Emon Pikemasters
+	8 Scanlan's Clenched Fist
+	8 Stilben Weapons Dealer
+	8 Draconian Tyrant
+	8 Crucible Brawler
+	8 Herd Brawler
+	8 Dragonbrawler Goristro
+	8 Strategic Adjustment
+	8 Divine Rage
+	8 Arrow of Dragon Slaying
+	8 Lightning Strike
+	8 Action Surge
+	8 Flametongue Dagger
+	8 Silver Tongue
+	8 Whispering Tome
+	8 Residuum Glass Barricade
+	8 Inconspicuous Door
+	8 Ashari Companion
+	8 Scanlan's Forceful Hand
+	8 Druidic Tiger-form
+	8 Syngorn Dreamer
+	8 Accursed Naga
+	8 Grasping Vine
+	8 Ice-Scaled Basilisk
+	8 Fey Realm Wanderer
+	8 Feymire Crocodile
+	8 Umber Hulk
+	8 Psychadelic Fey Shroom
+	8 Enlargement
+	8 Explore the Fey Realm
+	8 Disavow the Creators
+	8 True Power
+	8 Activate the Threshold Crests
+	8 Holy Relic
+	8 Cowpen of Consequence
+	8 Pepperbox
+	8 Hunted Rime Dragon
+	8 Bladeshimmer Shoreline
+	8 Foramere Basin
+	8 Rifenmist Peninsula
+	8 Cliffkeep Mountains
+	8 Dividing Plains
+	8 Verdant Expanse
+	8 Stormcrest Mountains
+	8 Parchwood Timberlands
+	8 Alabaster Sierras
+	8 Lucidian Coast
+	8 Spiritual Projection
+	8 Food
+	8 Doty
+	8 Trinket
+	8 Terrah Rock Elemental
+	8 Scanlan's Hand
+	8 Demestrik
+	8 Pistol
+	8 Vampire Mist
+	8 Treasure
+	8 Residuum
+	8 Angel
+	8 Avatar
+	8 Elemental
+	8 Faerie
+	8 Barbarian
+	8 Human Soldier
+	8 Elf Knight
+	8 Zombie Army
+	8 Skeleton Army
+	8 Skeleton
+	8 Cinderslag Wyrmling
+	8 Chromatic Greatwyrm
+[wildcard(2)]
+	6 Temple District Guard
+	6 Pale Guard Archers
+	6 Syngorn Emissary
+	6 Friendly Face
+	6 Whitestone Pale Guard
+	6 Whitestone Usurper
+	6 Fey Serpent Pup
+	6 Arms of Emon
+	6 Disturbed Spirits
+	6 Call the Cavalcade
+	6 Arcane Hoarding
+	6 Smiting Strike
+	6 Slay the Titan
+	6 Defense of Emon
+	6 Pixie Swarm
+	6 Vasselheim Storm Mage
+	6 Valiant Crownsoul
+	6 Fey Whirlybug
+	6 Ashari Waterweaver
+	6 Goldfish Elemental
+	6 Elusive Boneworm
+	6 Wyvern Skyraiders
+	6 Behir
+	6 Sleight of Hand
+	6 Scanlan's Interposing Hand
+	6 Vecna's Dispersal
+	6 Ioun's Watchful Eye
+	6 Allura's Binding Sphere
+	6 Whispering Omen
+	6 Divine Affluence
+	6 Cinderslag Egg
+	6 Pyrah Spiritualists
+	6 Risen Resident
+	6 Ravenite Defender
+	6 Spawn of Vecna
+	6 Ignoble Count
+	6 Fey Realm Rootsnake
+	6 Black Pudding
+	6 Ravenous Warg
+	6 Clasp Underagent
+	6 Zombie Stone Giant
+	6 Aberrant Horror
+	6 Whispered One's Touch
+	6 Rebuke the Divine
+	6 Thunderous Crack
+	6 Watch of the Matron
+	6 Disease of the Deceiver
+	6 Rise Again
+	6 Council Ambassador
+	6 Gloomstalker
+	6 Nameless Cultists
+	6 Eccentric Refiner
+	6 Cinderslag Elemental
+	6 Emon Pikemasters
+	6 Scanlan's Clenched Fist
+	6 Stilben Weapons Dealer
+	6 Draconian Tyrant
+	6 Crucible Brawler
+	6 Herd Brawler
+	6 Dragonbrawler Goristro
+	6 Strategic Adjustment
+	6 Divine Rage
+	6 Arrow of Dragon Slaying
+	6 Lightning Strike
+	6 Action Surge
+	6 Flametongue Dagger
+	6 Silver Tongue
+	6 Whispering Tome
+	6 Residuum Glass Barricade
+	6 Inconspicuous Door
+	6 Ashari Companion
+	6 Scanlan's Forceful Hand
+	6 Druidic Tiger-form
+	6 Syngorn Dreamer
+	6 Accursed Naga
+	6 Grasping Vine
+	6 Ice-Scaled Basilisk
+	6 Fey Realm Wanderer
+	6 Feymire Crocodile
+	6 Umber Hulk
+	6 Psychadelic Fey Shroom
+	6 Enlargement
+	6 Explore the Fey Realm
+	6 Disavow the Creators
+	6 True Power
+	6 Activate the Threshold Crests
+	6 Holy Relic
+	6 Cowpen of Consequence
+	6 Pepperbox
+	15 Pike Trickfoot, Acolyte
+	15 Skyship Captain
+	15 Yennen, Keeper of the Sun
+	15 Jarret, Vigilant Guard
+	15 Kerrek, Retired Smith
+	15 Wilhand Trickfoot
+	15 Meeting at Whitestone
+	15 Sundown Spawning
+	15 Indomitable Focus
+	15 Plate of the Dawnmartyr
+	15 Godly Bestowal
+	15 Sprigg, Trickster Gnome
+	15 Gern Blanston, Necrosage
+	15 Lyra of the Slayer's Take
+	15 Nahla, Healing Naiad
+	15 Clarota, Troubled Alhoon
+	15 Ashari Transport Ritual
+	15 Scrying Ritual
+	15 Chateau Accompaniment
+	15 Wristpocket
+	15 Mythcarver
+	15 Countercharm
+	15 Victor, Explosive Powderman
+	15 Percival de Rolo, Inventor
+	15 Garthok of the Clasp
+	15 Lillith, Moontouched
+	15 Archibald, Freedom Fighter
+	15 Assassin's Ink
+	15 Become Revenant
+	15 Disturbed Tomb
+	15 Bad News
+	15 Deathwalker's Ward
+	15 Necrotic Surge
+	15 Thorbir Falbek, Unlucky
+	15 Zanror, Hope of Storm
+	15 Grog Strongjaw
+	15 Tova, Imprisoned
+	15 Arcane Cache
+	15 Barbaric Outburst
+	15 Airborne Assault
+	15 Carefully-Laid Trap
+	15 Crater of the Cinder King
+	15 Storm-Herd Maul
+	15 Titanstone Knuckles
+	15 Shale, Goliath Elder
+	15 Trinket, Voracious Companion
+	15 Greenbeard, Herd Druid
+	15 Dr. Dranzel the Spectacular
+	15 Ukurat of the Fendir
+	15 Ashari Summit
+	15 Syngorn Rally
+	15 Herd Brawling
+	15 Echoes of the Feywild
+	15 Spire of Conflux
+	15 Journey of Aramenté
+	7 Soverign Uriel Tal'Dorei II
+	7 Cassandra de Rolo
+	7 Guardian Tofor Brotoras
+	7 Professor Byron Anders
+	7 Divine Word
+	7 Magnificent Flying Carpet
+	7 Taryon Darrington
+	7 Uvenda, Heart of the Tides
+	7 Lady Allura Vysoren
+	7 Locked and Loaded
+	7 Animus
+	7 Ioun Stone of Reserve
+	7 Umbrasyl, the Hope Devourer
+	7 Galdric, Moonlit Wolf
+	7 Lieve'Tel of the Veiled Coven
+	7 Kashaw, Tortured by Love
+	7 The List
+	7 Craven Edge
+	7 Bertrand Bell, Charlatan
+	7 Pa'tice, Heart of the Mountain
+	7 Cerkonos, Flamespeaker
+	7 Count on Luck
+	7 Thunderlord's Warbanner
+	7 Chromatic Queen's Summons
+	7 Kaylie, Lost Daughter
+	7 Earth Titan, Primordial
+	7 Seeker Assum Emring
+	7 Syldor, Ambassador of Syngorn
+	7 Diseased Rebirth
+	7 Fenthras' Woodbloom
+	4 The Sun Tree
+	4 The Divine Gate
+	4 Elementalist Thunderbrand
+	4 Osysa & Kamaljiori
+	4 J'mon Sa Ord, Jeweled Soul
+	4 Lord Sylas Briarwood
+	4 Arkhan the Cruel
+	4 The Calamity
+	4 Garmelie, Crass Cavorter
+	4 Earthbreaker Groon
+	4 Ziggurat of Knowledge
+	4 The Birthheart
+	4 The Trial Forge
+	4 Tower of Zenith
+	4 Raven's Crest
+	4 Temple of Renewal
+	4 Thar Amphala
+	15 The Meatman
+	15 Vax'ildan, Matron's Envoy
+	15 Wreath of the Prism
+	7 Castle Whitestone
+	7 Gilmore's Glorious Goods
+	7 The Slayer's Take
+	7 Mentiri, Bastion of Flesh
+	7 Peaks of Zephyra
+	6 Hunted Rime Dragon
+	15 Shrine of Renewal
+	15 Shrine of Reflection
+	15 Shrine of Shadows
+	15 Shrine of Fury
+	15 Shrine of Growth
+	15 Highbearer Vord
+	15 The Council of Tal'Dorei
+	15 Dr. Anna Ripley
+	15 Corrupted Ziggurat
+	15 Sir Kerrion Stonefell
+	15 Siege of Emon
+	15 Kevdak, Stormherd Leader
+	15 Scanlan, Valiant Musician
+	15 Vorugal, the Frigid Doom
+	15 Wardens of Syngorn
+	15 De Rolo Ancestor
+	15 Delilah's Haunting
+	15 Shaun Gilmore, Merchant
+	15 Residuum Refinery
+	15 Vex'ahlia, Twin Ranger
+	15 Vax'ildan, Twin Rogue
+	15 Duke Goran Vedmire
+	15 Fire Plane Metalcrafter
+	15 Keyleth of the Air Ashari
+	15 Zephyra Tornado Elemental
+	7 The Deera
+	7 Hex Cannon
+	7 Orb of Scrying
+	7 Progenitor's Icon
+	7 General Krieg
+	7 Cabal's Ruin
+	7 Zahra of the Night Moon
+	7 K'Varn, Warped Beholder
+	7 Thordak, the Cinder King
+	7 Thordak's Inferno Beam
+	7 Lionel Gayheart, Duck Prophet
+	7 Grog, Pillar of Strength
+	7 Sir Gregory Fince
+	7 Lady Vex'ahlia de Rolo
+	7 Lady Delilah Briarwood
+	7 Percival, Lord of Whitestone
+	7 Shaun Gilmore, Councilmember
+	7 Remnants of the Divergence
+	7 Raishan, the Diseased Deciever
+	7 Saundor the Betrayed
+	7 Hotis, Rakshasa Assassin
+	7 Lady Kima of Vord
+	7 Pike, Everlight's Beacon
+	7 Korrin, Watcher of Zephyra
+	7 Keyleth, Voice of the Tempest
+	7 Fenthras
+	7 Whisper
+	6 Bladeshimmer Shoreline
+	6 Foramere Basin
+	6 Rifenmist Peninsula
+	6 Cliffkeep Mountains
+	6 Dividing Plains
+	6 Verdant Expanse
+	6 Stormcrest Mountains
+	6 Parchwood Timberlands
+	6 Alabaster Sierras
+	6 Lucidian Coast
+	6 Spiritual Projection
+	6 Food
+	6 Doty
+	6 Trinket
+	6 Terrah Rock Elemental
+	6 Scanlan's Hand
+	6 Demestrik
+	6 Pistol
+	6 Vampire Mist
+	6 Treasure
+	6 Residuum
+	6 Angel
+	6 Avatar
+	6 Elemental
+	6 Faerie
+	6 Barbarian
+	6 Human Soldier
+	6 Elf Knight
+	6 Zombie Army
+	6 Skeleton Army
+	6 Skeleton
+	6 Cinderslag Wyrmling
+	6 Chromatic Greatwyrm
