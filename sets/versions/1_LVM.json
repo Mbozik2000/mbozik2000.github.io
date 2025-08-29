@@ -1,7 +1,7 @@
 ﻿{
     "name": "Exandria: The Legend of Vox Machina",
     "formats": "Draft, Sealed, Exandria Unlimited",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "jpg",
     "draft_structure": "play booster",
     "cards": [
@@ -5255,6 +5255,5 @@
             "artist": "",
             "notes": "X/X Red Dragon creature token with Flying named Chromatic Greatwyrm"
         }
-    ],
-    "version": 1
+    ]
 }
